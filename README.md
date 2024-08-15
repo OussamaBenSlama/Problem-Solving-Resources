@@ -6,10 +6,10 @@ Feel free to contribute by adding any valuable resources you come across.
 
 
 - **[TCPC 2023 Contest Problems](./1-TCPC-2023.pdf)** 
-    [Solutions](https://youtube.com/playlist?list=PLQ54HUdf85tdsywEwrD7GW3oxvV73E1qq&si=r5z5pMqMqKyZgsvA)
+-   [Solutions](https://youtube.com/playlist?list=PLQ54HUdf85tdsywEwrD7GW3oxvV73E1qq&si=r5z5pMqMqKyZgsvA)
 
 - **[TCPC 2022 Contest Problems](https://codeforces.com/gym/105020)** 
-    [Solutions](https://youtube.com/playlist?list=PLQ54HUdf85tfmAUe_cyaFE6J7gMAinCqu&si=AwuVDwuS1z0VzwL4)
+-   [Solutions](https://youtube.com/playlist?list=PLQ54HUdf85tfmAUe_cyaFE6J7gMAinCqu&si=AwuVDwuS1z0VzwL4)
 
 - **[Winter Cup 6.0 Online Mirror Contest](https://codeforces.com/gym/105010)** 
 
