@@ -1,2 +1,11 @@
-# ProblemSolving_Resources
-This repository offers a collection of problem-solving resources designed to help you master algorithms and data structures. You'll find valuable materials to support your learning journey.
+# A collection Of ProblemSolving_Resources
+
+This repository contains a collection of resources to help you improve your problem-solving skills and learn algorithms and data structures. These materials are useful whether you're preparing for contests, coding interviews, or just want to better understand these topics.
+
+Feel free to contribute by adding any valuable resources you come across.
+
+
+-. **[TCPC 2023 Contest Problems](./1-TCPC-2023.pdf)**  
+   
+
+   
