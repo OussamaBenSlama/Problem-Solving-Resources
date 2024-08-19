@@ -18,6 +18,13 @@ Feel free to contribute by adding any valuable resources you come across.
 - **[Problem Solving Sheet by Coding Betounsi](https://docs.google.com/spreadsheets/d/1NV36h5IUFoEoOCrfkdCRjCPagdm_Q6ix/edit?gid=1804554394#gid=1804554394)** 
 
 - **[Problem Solving Sheet by Dr Mostafa Saad Ibrahim](https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?gid=84654839#gid=84654839)** 
-   
+
+**Useful YouTube Channels**:
+- [Competitive Programming with Shayan](https://www.youtube.com/@CPwithShayan)
+- [NeetCode](https://www.youtube.com/@NeetCode)
+- [Coding BeTounsi](https://www.youtube.com/@CodingBeTounsi)
+- [Arabic Competitive Programming](https://youtube.com/@ArabicCompetitiveProgramming)
+- [Tushar Roy - Coding Made Simple](https://www.youtube.com/@tusharroy2525)
+
 
    
