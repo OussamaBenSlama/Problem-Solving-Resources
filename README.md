@@ -28,6 +28,7 @@ Feel free to contribute by adding any valuable resources you come across.
 
 
 **Books**:
-[CP BOOKS](https://drive.google.com/drive/folders/1c6wJjD1d2OvHzsKynl3ryaufBstTXb0H?usp=sharing)
+
+- [CP BOOKS](https://drive.google.com/drive/folders/1c6wJjD1d2OvHzsKynl3ryaufBstTXb0H?usp=sharing)
    
    
