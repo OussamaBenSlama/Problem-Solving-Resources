@@ -27,4 +27,7 @@ Feel free to contribute by adding any valuable resources you come across.
 - [Tushar Roy - Coding Made Simple](https://www.youtube.com/@tusharroy2525)
 
 
+**Books**:
+[CP BOOKS](https://drive.google.com/drive/folders/1c6wJjD1d2OvHzsKynl3ryaufBstTXb0H?usp=sharing)
+   
    
